@@ -57,6 +57,10 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
+  - text: "Sometimes you have to play the role of a fool to fool the fool who think they are fooling you"
+  - text: "You only know what I wanted you to know"
+  - text: "Everything can wait for the right time.!"
+  - text: "If you want something you never had in your life, then you have to do which you have not done before.!"
 
 me-img: "/img/profile.jpg"
 
