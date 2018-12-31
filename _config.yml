@@ -30,9 +30,9 @@ force-https: True
 
 lang: "en"
 author: "Bharath Sathuri"
-title: "{ Bharath Sathuri }"
+title: " Bharath Sathuri "
 description: "Blog and website of Bharath Sathuri, blogging mainly for tech. Opinions expressed are mine."
-keywords: "bharath,sathuri, personal, jekyll, theme"
+keywords: "bharath,sathuri, personal, stark, sources"
 favicon: "/img/favicon.ico"
 
 ################
@@ -132,11 +132,14 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
+    date: "January 2019 - Today"
     description: "Saving the neighborhood!"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
+    date: "June 2016 - January 2019"
     description: "Started coding"
+  - image: "/img/timeline/spidertocat.png"
+    date: "August 1998"
+    description: "Entered this Planet!"
 
 # First image of the Timeline
 
