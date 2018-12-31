@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Bharath Sathuri"
-title: " Bharath Sathuri "
+title: "{ Bharath Sathuri }"
 description: "Blog and website of Bharath Sathuri, blogging mainly for tech. Opinions expressed are mine."
 keywords: "bharath,sathuri, personal, stark, sources"
 favicon: "/img/favicon.ico"
