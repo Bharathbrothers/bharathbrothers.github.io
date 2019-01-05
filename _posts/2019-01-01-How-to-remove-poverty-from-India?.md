@@ -1,3 +1,11 @@
+---
+layout: post
+section-type: post
+title: How to remove poverty from India?
+category: society
+tags: [ 'society' ]
+---
+
 <div dir="ltr" style="text-align: left;" trbidi="on">
 This is completely my opinion about how to reduce poverty in our country. In this I am going to describe about which i thought of almost 10 years before. At that time it might not be possible ,but<br />
 <blockquote class="tr_bq">
