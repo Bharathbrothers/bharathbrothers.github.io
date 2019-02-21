@@ -57,8 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "The lower you fall, the higher you'll fly."
   - text: "Where’s your will to be weird?"
-  - text: "Sometimes you have to play the role of a fool to fool the fool who think they are fooling you"
-  - text: "You only know what I wanted you to know"
+  - text: "You only know what I wanted you to know!"
   - text: "Everything can wait for the right time.!"
   - text: "If you want something you never had in your life, then you have to do which you have not done before.!"
 
@@ -177,6 +176,12 @@ social:
     url: "https://twitter.com/BharathSathuri"
   - title: "github"
     url: "https://github.com/Bharathbrothers"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/bharath-kumar-goud/"
+  - title: "blog"
+    url: "https://starksources.github.io/myblog/"
+  - title: "website"
+    url: "https://starksources.github.io/"
   - title: "rss"
     url: "/feed.xml"
 
@@ -191,7 +196,7 @@ err-404-img: "/img/labtocat.png"
 ##################
 
 keybase-username: bharathsathuri
-keybase-in-social: True
+keybase-in-social: False
 keybase-in-footer: False
 
 ################################################################################
